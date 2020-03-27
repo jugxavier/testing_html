@@ -1,0 +1,39 @@
+body{
+    
+    width: 80%;
+    margin: auto;
+    /*margin auto centralizada na horizontal*/
+    font-family: sans-serif;
+    color: #444;
+}
+h1{
+    font-size: 46px;
+    color:rgb(17, 155, 17);
+    background-color: palegreen;
+    text-align: center;
+}
+h2{
+
+    color: rgb(3, 68, 128);
+    background-color: rgb(63, 189, 228);
+    font-size: 36px;
+    border-bottom: solid 3px rgb(3, 68, 128);
+}
+ul{
+    padding-left: 0;
+}
+li{
+    padding-left: 0;
+    list-style-position: inside;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 255, 76);
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(30, 210, 54);
+}
+a:active{
+    color: orangered
+}
