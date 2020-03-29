@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+table{
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+    background-color: rgb(194, 61, 61);
+}
+tr{
+    background-color:rgb(223, 124, 185);
+}
+td{
+    border: 1px solid black
+    
+}
